@@ -1,10 +1,10 @@
 {
-  "name": "node-red-contrib-gaode",
-  "version": "1.0.3",
+  "name": "node-red-contrib-gaode-smc",
+  "version": "1.0.4",
   "description": "node red node for gaode",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:yaming116/node-red-contrib-gaode.git"
+    "url": "git+ssh://git@github.com:smc326/node-red-contrib-gaode.git"
   },
   "main": "xx.js",
   "scripts": {
